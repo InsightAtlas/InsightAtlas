@@ -9,6 +9,7 @@ I'm currently pursuing my Bachelor's in Economics at the National University, Ba
 
 Skills: HTML
 
+- 🌱 I’m currently learning Python, Data Analysis 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with learning Data Analysis 
 - 📫 How to reach me: samiarahman.official96@gmail.com 
