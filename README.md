@@ -2,7 +2,7 @@
 
 # Hello, I'm Samia Rahman
 ### I am a Python Learner 
-![I am a Python Learner ](https://media.licdn.com/dms/image/v2/D4E16AQEQ4hWGT4TXLw/profile-displaybackgroundimage-shrink_350_1400/B4EZozxojRKMAY-/0/1761805242045?e=1763596800&v=beta&t=8HGe3X9b7J5jgDMNqa0PjLjpNrT7dtFcpzWZ5K30ZjA)
+
 
 
 I'm currently pursuing my Bachelor's in Economics at the National University, Bangladesh. Besides this I'm learning Python for DATA ANALYSIS and I love bringing together my strong analytical foundation with practical knowledge of Search Engine Optimization.
