@@ -9,9 +9,9 @@ I'm currently pursuing my Bachelor's in Economics at the National University, Ba
 
 Skills: HTML
 
-- 🌱 I’m currently learning Python, Data Analysis 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with learning Data Analysis 
+- 🌱 I’m currently learning Data Analysis. 
+- 👯 I’m looking to collaborate on Github.
+- 🤔 I’m looking for help with learning Data Analysis. 
 - 📫 How to reach me: samiarahman.official96@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/InsightAtlas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samia-rahman-aishy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/charu1411)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/<+8801786254439>)  
