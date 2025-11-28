@@ -5,7 +5,7 @@
 
 
 
-I'm currently pursuing my Bachelor's in Economics at the National University, Bangladesh. Besides this I'm learning Python for DATA ANALYSIS and I love bringing together my strong analytical foundation with practical knowledge of Search Engine Optimization.
+I'm currently pursuing my Bachelor's in Economics at the National University, Bangladesh. Besides this I'm learning DATA ANALYSIS and I love bringing together my strong analytical foundation with practical knowledge of Search Engine Optimization.
 
 Skills: HTML
 
